@@ -11,6 +11,11 @@ jobs:
         steps:
             - name: checkout repo content
               uses: actions/checkout@v3
+            
+            - name: install dig
+              run: |
+                  sudo apt update
+                  sudo apt install dnsutils
 
             - name: execute shell script
               run: sh scraper.sh
