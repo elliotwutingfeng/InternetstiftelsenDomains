@@ -1,0 +1,28 @@
+name: scraper
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "0 12 * * *" # runs at 12:00 UTC everyday
+
+jobs:
+    generate_list:
+        runs-on: ubuntu-latest
+        steps:
+            - name: checkout repo content
+              uses: actions/checkout@v3
+
+            - name: execute shell script
+              run: sh scraper.sh
+
+            - name: commit files
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add -A
+                  git diff --name-only --cached --exit-code || git commit -am "update domains"
+            - name: push changes
+              uses: ad-m/github-push-action@v0.6.0
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  branch: main
