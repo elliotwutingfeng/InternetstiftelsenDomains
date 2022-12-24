@@ -4,7 +4,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-CC--BY--4.0-GREEN?style=for-the-badge)](LICENSE)
-[![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/InternetstiftelsenDomains/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/InternetstiftelsenDomains/actions/workflows/scraper.yml)
+[![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/InternetstiftelsenDomains/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/InternetstiftelsenDomains/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/InternetstiftelsenDomains?label=Total%20Domains&style=for-the-badge" alt="Total Domains"/>
 
 Machine-readable `.txt` lists of domains from the [Internetstiftelsen](https://zonedata.iis.se) (Swedish Internet Foundation) zonefiles, updated once a day.
