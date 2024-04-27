@@ -868,7 +868,6 @@
 33rpm.nu
 345.nu
 346592.nu
-348.nu
 349.nu
 35.nu
 356.nu
@@ -2659,7 +2658,6 @@ acq.nu
 acquadiparma.nu
 acqualimone.nu
 acquisitie.nu
-acquisitions.nu
 acre.nu
 acredo.nu
 acreo.nu
@@ -4637,6 +4635,7 @@ aikido.nu
 aikikai.nu
 aikio.nu
 aiklart.nu
+aiknow.nu
 aiko.nu
 aikollega.nu
 aikompetens.nu
@@ -8605,7 +8604,6 @@ annualreports.nu
 annuitairehypotheek.nu
 annuiteit-hypotheek.nu
 annuiteitenhypotheekofferte.nu
-annuiteitenhypotheken.nu
 annuiteithypotheekofferte.nu
 annuitetslan.nu
 annuska.nu
@@ -30668,6 +30666,7 @@ casinobetting.nu
 casinobibeln.nu
 casinoblackjack.nu
 casinoble.nu
+casinoblogg.nu
 casinobloggen.nu
 casinobolag.nu
 casinobonus.nu
@@ -38979,6 +38978,7 @@ datdoetdata.nu
 datdus.nu
 date.nu
 datea.nu
+datedines.nu
 dateguiden.nu
 dateirl.nu
 datek.nu
@@ -43756,6 +43756,7 @@ divequipment.nu
 diversae.nu
 diverscitymeter.nu
 diverse.nu
+diversebutiken.nu
 diversehandel.nu
 diversi.nu
 diversify.nu
@@ -48330,6 +48331,7 @@ eenidee.nu
 eenkindkandewasdoen.nu
 eenkleingebaar.nu
 eenkopjekoffie.nu
+eenleerboost.nu
 eenlevenlangbewegen.nu
 eenlevenlangflow.nu
 eenlevenstestament.nu
@@ -52201,6 +52203,7 @@ ennue-studio.nu
 ennui.nu
 ennuishetgenoeg.nu
 ennygenerationfonster.nu
+ennytid.nu
 ennyverden.nu
 eno.nu
 enochsson.nu
@@ -58462,6 +58465,7 @@ finlay.nu
 finley.nu
 finlir.nu
 finmar.nu
+finmekanik.nu
 finmotorik.nu
 finn.nu
 finna.nu
@@ -59699,6 +59703,7 @@ flintab.nu
 flintberg.nu
 flintholm.nu
 flip.nu
+flip4profit.nu
 flipa.nu
 flipcup.nu
 flipflop.nu
@@ -72827,6 +72832,7 @@ hafex.nu
 haff.nu
 haffa.nu
 haffla.nu
+hafi.nu
 haficon.nu
 hafkamp.nu
 hafstad.nu
@@ -78261,6 +78267,7 @@ hittagud.nu
 hittagym.nu
 hittahantverkare.nu
 hittahit.nu
+hittahudcancer.nu
 hittahund.nu
 hittahunddagis.nu
 hittahuset.nu
@@ -90477,6 +90484,7 @@ jeva.nu
 jevelia.nu
 jevi.nu
 jew.nu
+jewarezelf.nu
 jewel.nu
 jewelgallery.nu
 jewellery.nu
@@ -98508,6 +98516,7 @@ komigen.nu
 komigendetblirkul.nu
 komihaven.nu
 komik.nu
+komiker.nu
 komiluckan.nu
 komin.nu
 kominactie.nu
@@ -100297,6 +100306,7 @@ kreativakvadratmeter.nu
 kreativamonster.nu
 kreativamoten.nu
 kreativapedagoger.nu
+kreativating.nu
 kreativdesign.nu
 kreative.nu
 kreativer.nu
@@ -105572,6 +105582,7 @@ lekkeruiteten.nu
 lekkeruitwaaien.nu
 lekkervers.nu
 lekkervoorje.nu
+lekkerwarm.nu
 lekkerweg.nu
 lekkerwerk.nu
 lekkerwerken.nu
@@ -106448,6 +106459,7 @@ lexinlexikon.nu
 lexio.nu
 lexis.nu
 lexisnexis.nu
+lexity.nu
 lexium.nu
 lexlaw.nu
 lexly.nu
@@ -113453,6 +113465,7 @@ mariannelund.nu
 mariano.nu
 mariaochdavid.nu
 mariaochniklas.nu
+mariaofsweden.nu
 mariaogmichael.nu
 mariaolsson.nu
 mariaparksol.nu
@@ -149819,6 +149832,7 @@ residencia.nu
 residens.nu
 residenset.nu
 residensia.nu
+residensmoen.nu
 resifence.nu
 resilience.nu
 resiliens.nu
@@ -162738,6 +162752,8 @@ skultuna.nu
 skultunaaik.nu
 skultunamaskinservice.nu
 skultunasymaskiner.nu
+skultunasymaskinservice.nu
+skultunasymaskinsservice.nu
 skum.nu
 skumbad.nu
 skumbetong.nu
@@ -164906,6 +164922,7 @@ snes.nu
 sneslynge.nu
 snet.nu
 snetselaar.nu
+snetv.nu
 sneuniverset.nu
 snevagt.nu
 snevagten.nu
@@ -166998,6 +167015,7 @@ soulution.nu
 soulvability.nu
 soulve.nu
 soulweaver.nu
+soulwisdom.nu
 soulwise.nu
 soulwork.nu
 soulworks.nu
@@ -172053,6 +172071,7 @@ stopantisemitisme.nu
 stopaqua.nu
 stoparmoede.nu
 stopbedplassen.nu
+stopbedrageri.nu
 stopbijtelling.nu
 stopbilspild.nu
 stopbiomassa.nu
@@ -192718,6 +192737,8 @@ vasterassim.nu
 vasterasstift.nu
 vasterasstreetfood.nu
 vasterassummermeet.nu
+vasterassymaskinservice.nu
+vasterassymaskinsservice.nu
 vasterastrafikskola.nu
 vasterastryckeri.nu
 vasterbergslagenselnat.nu
@@ -194684,7 +194705,6 @@ versum.nu
 versus.nu
 versutius.nu
 versvandemarkt.nu
-versvanhetland.nu
 versveilig.nu
 vert-ellen.nu
 vert.nu
@@ -201942,6 +201962,7 @@ weum.nu
 weumgas.nu
 wev.nu
 wever.nu
+weverify.nu
 wevers.nu
 weversplein.nu
 wevibe.nu
@@ -204105,6 +204126,7 @@ worldschildrensparliament.nu
 worldschildrensprize.nu
 worldseries.nu
 worldsmarathons.nu
+worldsnus.nu
 worldspace.nu
 worldsport.nu
 worldtaekwondo.nu
@@ -219880,7 +219902,6 @@ zonkracht.nu
 zonlease.nu
 zonleen.nu
 zonlicht.nu
-zonline.nu
 zonmaster.nu
 zonne-boiler.nu
 zonne-energie-nederland.nu
@@ -220013,6 +220034,7 @@ zoosk.nu
 zoostore.nu
 zootropic.nu
 zoovillage.nu
+zooz.nu
 zoozoo.nu
 zopuur.nu
 zorbas.nu
