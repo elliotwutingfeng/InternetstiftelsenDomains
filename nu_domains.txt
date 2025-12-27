@@ -691,6 +691,7 @@
 2komp.nu
 2kp.nu
 2l-longlife.nu
+2l.nu
 2light.nu
 2live.nu
 2m.nu
@@ -3042,7 +3043,6 @@ adresser.nu
 adressmaterial.nu
 adressmedia.nu
 adretailmedia.nu
-adrexperten.nu
 adrhah.nu
 adrhuisaanhuis.nu
 adria.nu
@@ -4462,7 +4462,6 @@ airsoften.nu
 airsoftkalendern.nu
 airsoftspecialisten.nu
 airsoftspel.nu
-airsofttech.nu
 airspy.nu
 airstop.nu
 airtarget.nu
@@ -5882,7 +5881,6 @@ allkonst.nu
 allkonstnaren.nu
 allkonsult.nu
 allmade.nu
-allmanbildning.nu
 allmankursdistans.nu
 allmanlakare.nu
 allmanna.nu
@@ -8361,6 +8359,7 @@ aplsw.nu
 apm.nu
 apmproduction.nu
 apn.nu
+apnea.nu
 apnesverige.nu
 apo.nu
 apocalypse.nu
@@ -14013,6 +14012,7 @@ bastec.nu
 basten.nu
 bastforfest.nu
 bastholm.nu
+basti.nu
 bastiaan.nu
 bastiaandevries.nu
 bastiaannet.nu
@@ -14276,11 +14276,8 @@ bayram.nu
 baywest.nu
 baz.nu
 bazaar.nu
-bazaaronline.nu
-bazaaronlinewonen.nu
 bazar.nu
 bazaro.nu
-bazaronline.nu
 bazelmans.nu
 bazen.nu
 bazinga.nu
@@ -16178,8 +16175,6 @@ bespaarmetjedak.nu
 bespaarmetjehuis.nu
 bespaarmijdeenergie.nu
 bespaarnu.nu
-bespaaropjehuis.nu
-bespaaropjepand.nu
 bespaarsamen.nu
 besparen-kan.nu
 besparen.nu
@@ -16501,6 +16496,7 @@ beterklantcontact.nu
 beterlenen.nu
 beterlezen.nu
 beterlopen.nu
+betermensch.nu
 betermeter.nu
 beteronderwijs.nu
 beterpresteren.nu
@@ -16849,7 +16845,6 @@ bewa.nu
 bewaken.nu
 bewaking.nu
 bewakingscamera.nu
-bewakingstechnieknederland.nu
 bewarm.nu
 bewas.nu
 bewatched.nu
@@ -17775,6 +17770,7 @@ billen.nu
 billerud.nu
 billerudkorsnas.nu
 billeskov.nu
+billesoe.nu
 billet.nu
 billet24.nu
 billeteknik.nu
@@ -19612,7 +19608,6 @@ blivskiinstruktor.nu
 blivskiltetekniker.nu
 blivskorstensfejer.nu
 blivslank.nu
-blivsmart.nu
 blivsmed.nu
 blivsmertefri.nu
 blivspejder.nu
@@ -19636,6 +19631,7 @@ blixbo.nu
 blixenkrone.nu
 blixt.nu
 blixtarna.nu
+blixten.nu
 blixtfaktura.nu
 blixtgordon.nu
 blixtkvitto.nu
@@ -19665,7 +19661,6 @@ blobs.nu
 bloccs.nu
 bloch.nu
 block.nu
-blockbike.nu
 blockbuster.nu
 blockbusterfonds.nu
 blockchain.nu
@@ -21670,7 +21665,6 @@ bootsma.nu
 bootsman.nu
 bootstrap.nu
 bootsverleih.nu
-boottaxatie.nu
 bootverhuur.nu
 booty-call.nu
 bootz.nu
@@ -28191,7 +28185,6 @@ caterva.nu
 catgirl.nu
 catgirls.nu
 cath.nu
-catharina.nu
 catharinahoeve.nu
 catharsis.nu
 catheterbroek.nu
@@ -28909,7 +28902,6 @@ ch.nu
 ch4.nu
 cha.nu
 chabad.nu
-chablis.nu
 chabot.nu
 chagit.nu
 chai.nu
@@ -29859,7 +29851,6 @@ circulardesign.nu
 circulareconomy.nu
 circularit.nu
 circularity.nu
-circularmarket.nu
 circularmetals.nu
 circularmonday.nu
 circularproof.nu
@@ -30144,6 +30135,7 @@ ckstudio.nu
 ckt.nu
 cktrafikskola.nu
 cku.nu
+ckw.nu
 ckwellness.nu
 cl-tipset.nu
 cl.nu
@@ -33460,7 +33452,6 @@ cups.nu
 cupsida.nu
 cupstockholm.nu
 cupsupport.nu
-cuptava.nu
 cur.nu
 cur8.nu
 cura.nu
@@ -34803,7 +34794,6 @@ danica.nu
 danicaforsakring.nu
 danicaforsakringar.nu
 danicalink.nu
-daniel-nielsen.nu
 daniel-online.nu
 daniel.nu
 daniela.nu
@@ -35753,7 +35743,6 @@ deanservice.nu
 deapplespecialist.nu
 deaquarelvivente.nu
 dear.nu
-dearend.nu
 dearfuture.nu
 deark.nu
 dearkvivente.nu
@@ -35786,7 +35775,6 @@ debatterij.nu
 debattorget.nu
 debattsidan.nu
 debattsm.nu
-debazaar.nu
 debb.nu
 debbdesign.nu
 debbie.nu
@@ -36267,7 +36255,6 @@ dehazelaarshof.nu
 deheeg.nu
 deheer.nu
 deheerencatering.nu
-deheerenvan.nu
 deheerlandenwater.nu
 dehelevrouw.nu
 dehemel.nu
@@ -36715,7 +36702,6 @@ delyla.nu
 dem.nu
 dema.nu
 demaagbandexpert.nu
-demaaltijdenwinkel.nu
 demaatisvol.nu
 demaatwerkfabriek.nu
 demab.nu
@@ -39818,7 +39804,6 @@ dk-distribution.nu
 dk-it.nu
 dk-service.nu
 dk-tec.nu
-dk.nu
 dka.nu
 dkab.nu
 dkau2mation.nu
@@ -42860,7 +42845,6 @@ easylog.nu
 easylogic.nu
 easylover.nu
 easymail.nu
-easymaxx.nu
 easymeal.nu
 easymeet.nu
 easymember.nu
@@ -43650,6 +43634,7 @@ educom.nu
 educon.nu
 educonnect.nu
 edufictie.nu
+eduflex.nu
 edugo.nu
 edugrade.nu
 eduka.nu
@@ -44058,7 +44043,6 @@ eg.nu
 ega.nu
 egab.nu
 egainforecasting.nu
-egalia.nu
 egame.nu
 egamort.nu
 egas.nu
@@ -44262,7 +44246,6 @@ ehrling.nu
 ehrlund.nu
 ehrnstroms.nu
 ehrsson.nu
-ehsan.nu
 ehsforum.nu
 ehsq.nu
 eht.nu
@@ -47614,7 +47597,6 @@ epicbet.nu
 epiccravings.nu
 epicentrum.nu
 epiceros.nu
-epiclead.nu
 epicniue.nu
 epicniueadventures.nu
 epicnumber.nu
@@ -47973,6 +47955,7 @@ ericsberg.nu
 ericson.nu
 ericsons.nu
 ericsson.nu
+erictime.nu
 ericwallmander.nu
 ericwestroth.nu
 eridepro.nu
@@ -48551,6 +48534,7 @@ essenzo.nu
 esser.nu
 essers.nu
 esset.nu
+essetech.nu
 essge.nu
 essgroup.nu
 essi.nu
@@ -51666,7 +51650,6 @@ feinberg.nu
 feiner.nu
 feisab.nu
 feith.nu
-feitjes.nu
 feja.nu
 fejan.nu
 fejanoutdoor.nu
@@ -53726,7 +53709,6 @@ flamman.nu
 flamme.nu
 flammen.nu
 flammy.nu
-flamoes.nu
 flamskydda.nu
 flando.nu
 flandria.nu
@@ -53791,7 +53773,6 @@ fle.nu
 flean.nu
 fleck.nu
 fleckvieh.nu
-flecs.nu
 fledge.nu
 fleet-management.nu
 fleet.nu
@@ -53949,7 +53930,6 @@ flexmaster.nu
 flexmatch.nu
 flexmontage.nu
 flexname.nu
-flexnl.nu
 flexo.nu
 flexolines.nu
 flexones.nu
@@ -54765,7 +54745,6 @@ focn.nu
 focnl.nu
 focs.nu
 focus.nu
-focusandbalance.nu
 focusbreed.nu
 focuscapital.nu
 focused.nu
@@ -54941,7 +54920,6 @@ folkekirken.nu
 folkers.nu
 folkersma.nu
 folkerts.nu
-folkeryd.nu
 folkes.nu
 folkesbygg.nu
 folkesson.nu
@@ -55923,7 +55901,6 @@ forskolebrevet.nu
 forskoleforum.nu
 forskolekraft.nu
 forskoleutveckling.nu
-forskottslon.nu
 forskrivning.nu
 forslag.nu
 forslagsladan.nu
@@ -56803,7 +56780,6 @@ fredin.nu
 freding.nu
 fredivarahander.nu
 frediverden.nu
-fredlund.nu
 fredman.nu
 fredmedjorden.nu
 fredmepi.nu
@@ -57087,7 +57063,6 @@ freshfilter.nu
 freshfitness.nu
 freshfm.nu
 freshfunds.nu
-freshgreen.nu
 freshhome.nu
 freshify.nu
 freshkeeper.nu
@@ -59938,7 +59913,6 @@ gemab.nu
 gemakshalve.nu
 gemaskintjanst.nu
 gembenelux.nu
-gembly.nu
 gembo.nu
 gemcloud.nu
 gemdet.nu
@@ -60591,8 +60565,6 @@ gezelligheid.nu
 gezin.nu
 gezinenrelatie.nu
 geziningevaar.nu
-gezinnen.nu
-gezinnenvan.nu
 gezinnig.nu
 gezinscoaching.nu
 gezinshuis.nu
@@ -60601,8 +60573,6 @@ gezinshuizen.nu
 gezinskracht.nu
 gezinssupport.nu
 gezinsvakantie.nu
-gezinsvormen.nu
-gezinsvormenvan.nu
 gezocht.nu
 gezond-bezig.nu
 gezond-verstand.nu
@@ -60665,7 +60635,6 @@ gezondoud.nu
 gezondouderworden.nu
 gezondoudworden.nu
 gezondslapen.nu
-gezondverbonden.nu
 gezondwater.nu
 gezondwerken.nu
 gezondworden.nu
@@ -63885,7 +63854,6 @@ greenscreen.nu
 greenseas.nu
 greensleeves.nu
 greenspaces.nu
-greenspiration.nu
 greenspirit.nu
 greensquaretravel.nu
 greenstar.nu
@@ -65614,7 +65582,6 @@ haarinzicht.nu
 haarlemevents.nu
 haarlemgezond.nu
 haarlemmermeerintobusiness.nu
-haarlemmerstroom.nu
 haarlemsestem.nu
 haarpigmentatie.nu
 haarsaker.nu
@@ -66534,10 +66501,12 @@ hampa.nu
 hampablad.nu
 hampablock.nu
 hampabonden.nu
+hampabutiken.nu
 hampafestival.nu
 hampafestivalen.nu
 hampagarden.nu
 hampagiganten.nu
+hampagrossisten.nu
 hampakungarna.nu
 hampakungen.nu
 hampaladan.nu
@@ -69249,7 +69218,6 @@ hemvet.nu
 hemviken.nu
 hemvis.nu
 hemvist.nu
-hemvvs.nu
 hemy.nu
 hen.nu
 hendabygg.nu
@@ -71070,7 +71038,6 @@ hntbulk.nu
 hntkonsult.nu
 hnu.nu
 hnw.nu
-hnygrll.nu
 hnytt.nu
 ho.nu
 hoap.nu
@@ -71574,7 +71541,6 @@ holmalundsif.nu
 holman.nu
 holmanders.nu
 holmans.nu
-holmarna.nu
 holmberg.nu
 holmberger.nu
 holmbergonline.nu
@@ -71872,7 +71838,6 @@ honeybadger.nu
 honeybadgers.nu
 honeybi.nu
 honeycloud.nu
-honeygrill.nu
 honeyhome.nu
 honeywell.nu
 hongarije.nu
@@ -72561,7 +72526,6 @@ houseguard.nu
 housematching.nu
 housen.nu
 houseof.nu
-houseofbeauty.nu
 houseofcard.nu
 houseofcardandpayment.nu
 houseofconnection.nu
@@ -75571,7 +75535,6 @@ igen.nu
 igeneration.nu
 igg.nu
 iggesundpaperboard.nu
-iggi.nu
 iggy.nu
 igia.nu
 igig.nu
@@ -76466,7 +76429,6 @@ impacked.nu
 impact-hub.nu
 impact-hypotheken.nu
 impact.nu
-impact360.nu
 impactadventure.nu
 impactboerderij.nu
 impactbusinesschallengers.nu
@@ -78149,7 +78111,6 @@ inspire.nu
 inspirea.nu
 inspirecoaching.nu
 inspired.nu
-inspiredbynature.nu
 inspiredmindset.nu
 inspiredpeoplework.nu
 inspirer.nu
@@ -78179,7 +78140,6 @@ insta800.nu
 instaat.nu
 instabee.nu
 instacate.nu
-instafill.nu
 instafilm.nu
 instaflow.nu
 instagram.nu
@@ -79687,7 +79647,6 @@ isop.nu
 isopert.nu
 isoplus.nu
 isopol.nu
-isorate.nu
 isos.nu
 isosystems.nu
 isotech.nu
@@ -82694,7 +82653,6 @@ jorn.nu
 jornemark.nu
 jornstugan.nu
 joro.nu
-jorrepecasse.nu
 jorrincontrol.nu
 jorring.nu
 jorrit.nu
@@ -85490,9 +85448,7 @@ kbmarine.nu
 kbn.nu
 kbnordic.nu
 kbo.nu
-kbonline.nu
 kbp.nu
-kbprojects.nu
 kbr.nu
 kbs.nu
 kbsbygg.nu
@@ -86357,7 +86313,6 @@ kidsadventureclub.nu
 kidsadvisor.nu
 kidsathome.nu
 kidsbrandstore.nu
-kidscollege.nu
 kidsconnect.nu
 kidscorner.nu
 kidsdreamstore.nu
@@ -89741,7 +89696,6 @@ koreanmarket.nu
 koreanskhudvard.nu
 koreanskincare.nu
 korei.nu
-korekort.nu
 koren.nu
 korenhof.nu
 koreprove.nu
@@ -90665,7 +90619,6 @@ kristiansvensson.nu
 kristider.nu
 kristienvanelteren.nu
 kristin.nu
-kristina.nu
 kristinaelisabetwoodotterland.nu
 kristinahuset.nu
 kristine.nu
@@ -92032,7 +91985,6 @@ kwaai.nu
 kwaaijongens.nu
 kwaaitaal.nu
 kwaak.nu
-kwab.nu
 kwadraat.nu
 kwadrant.nu
 kwajongens.nu
@@ -92998,7 +92950,6 @@ lampe.nu
 lampeberger.nu
 lampelkonsult.nu
 lampen.nu
-lampenenmeer.nu
 lampenkap.nu
 lampenkopen.nu
 lampert.nu
@@ -93537,7 +93488,6 @@ larmig.nu
 larminspektion.nu
 larminstallator.nu
 larmlagret.nu
-larmoffert.nu
 larmofferter.nu
 larmsecure.nu
 larmteamet.nu
@@ -94326,7 +94276,6 @@ leasy.nu
 leasydrive.nu
 leathermaster.nu
 leathermasterscandinavia.nu
-leav.nu
 leaveeu.nu
 leavenoonebehind.nu
 leavethekidsalone.nu
@@ -94554,7 +94503,6 @@ leefbaartynaarlo.nu
 leefbewust.nu
 leefbewustlifestyle.nu
 leefcenter.nu
-leefenergiebewust.nu
 leeff.nu
 leefgezonder.nu
 leefhetleven.nu
@@ -95078,7 +95026,6 @@ lekkerbek.nu
 lekkerbelangrijk.nu
 lekkerbewegen.nu
 lekkerbezig.nu
-lekkerbezigkatwijk.nu
 lekkerbier.nu
 lekkerbrood.nu
 lekkerbuiten.nu
@@ -96189,7 +96136,6 @@ lids.nu
 lidstrom.nu
 lidt-til-salg.nu
 lidtbedre.nu
-lidwoord.nu
 lidworden.nu
 lie.nu
 liebach.nu
@@ -97696,7 +97642,6 @@ livsberattelser.nu
 livsbygget.nu
 livscentrum.nu
 livscirkeln.nu
-livscykeln.nu
 livsdesign.nu
 livsduelighed.nu
 livsenergi.nu
@@ -99953,7 +99898,6 @@ luxel.nu
 luxemburg.nu
 luxenburg.nu
 luxera.nu
-luxerella.nu
 luximprove.nu
 luxina.nu
 luxkids.nu
@@ -104586,7 +104530,6 @@ meditate.nu
 meditatie-punt.nu
 meditatie.nu
 meditatiekussen.nu
-meditatieopschool.nu
 meditation.nu
 meditationforhumans.nu
 meditationslabbet.nu
@@ -105305,6 +105248,7 @@ menning.nu
 mennodejong.nu
 mennohof.nu
 mennoong.nu
+mennovg.nu
 meno.nu
 menobalance.nu
 menoboost.nu
@@ -107128,6 +107072,7 @@ minaprylar.nu
 minarecept.nu
 minaresor.nu
 minas.nu
+minasamtal.nu
 minasamtycken.nu
 minasidor.nu
 minasikt.nu
@@ -107316,7 +107261,6 @@ mindrespild.nu
 mindsbehindmeat.nu
 mindschool.nu
 mindservice.nu
-mindset.nu
 mindsetcoaching.nu
 mindsetmotivation.nu
 mindsetting.nu
@@ -111814,7 +111758,6 @@ nackapartiet.nu
 nackaport.nu
 nackaredovisning.nu
 nackarevision.nu
-nackastubbfrasning.nu
 nacken.nu
 nackkliniken.nu
 nackrosenunderklader.nu
@@ -113280,6 +113223,7 @@ nerikekonservatorn.nu
 neriketolkarna.nu
 nerium.nu
 nerja.nu
+nerjaeats.nu
 nermans.nu
 nero.nu
 nerohub.nu
@@ -113663,7 +113607,6 @@ newbienudes.nu
 newbizz.nu
 newbody.nu
 newbodyfamily.nu
-newborn.nu
 newbridge.nu
 newcarparts.nu
 newcartomanzia.nu
@@ -113671,7 +113614,6 @@ newcastle.nu
 newcentury.nu
 newcircle.nu
 newcity.nu
-newclicks.nu
 newcompany.nu
 newconomy.nu
 newdelhi.nu
@@ -114045,7 +113987,6 @@ nib.nu
 niba.nu
 nibab.nu
 nibble.nu
-nibbles.nu
 nibc-direct.nu
 nibc-direkt.nu
 nibcdirect.nu
@@ -116322,6 +116263,7 @@ norrsell.nu
 norrservice.nu
 norrsidan.nu
 norrskapt.nu
+norrsken.nu
 norrskenet.nu
 norrskensfil.nu
 norrskenshalsan.nu
@@ -116450,6 +116392,7 @@ norva.nu
 norva24.nu
 norvain.nu
 norvasc.nu
+norvia.nu
 norvil.nu
 norvine.nu
 norvir.nu
@@ -117934,7 +117877,6 @@ nytwebsted.nu
 nyutmaning.nu
 nyva.nu
 nyvado.nu
-nyvaket.nu
 nyval.nu
 nyvana.nu
 nyvandhane.nu
@@ -118892,13 +118834,10 @@ oktan.nu
 oktav.nu
 okto.nu
 oktoberbest.nu
-oktoberfeest.nu
 oktoberfeesten.nu
-oktoberfeestkleding.nu
 oktoberfest.nu
 oktoberfestdjs.nu
 oktoberfesten.nu
-oktoberfestkleding.nu
 oktopal.nu
 oktv.nu
 okuma.nu
@@ -119840,7 +119779,6 @@ onl.nu
 onlajn.nu
 onlein.nu
 onlife.nu
-online-academy.nu
 online-administratie.nu
 online-betting.nu
 online-bingo.nu
@@ -119883,8 +119821,6 @@ onlineassessment.nu
 onlineaudiciens.nu
 onlineauktion.nu
 onlineautohuren.nu
-onlinebazaar.nu
-onlinebazar.nu
 onlinebehandlig.nu
 onlinebeleggen.nu
 onlinebellen.nu
@@ -121721,7 +121657,6 @@ ostergren.nu
 osterholm.nu
 osteria.nu
 osteriadila.nu
-osteriget.nu
 osterled.nu
 osterleden.nu
 osterlen-guiden.nu
@@ -121765,6 +121700,7 @@ ostersundsmodellflygklubb.nu
 ostersundstrafikskola.nu
 ostervala.nu
 ostervall.nu
+ostervik.nu
 ostfold-teater.nu
 ostgaard.nu
 ostgota.nu
@@ -121976,6 +121912,7 @@ ourdesign.nu
 oure.nu
 ourhistory.nu
 ourhome.nu
+ourland.nu
 ourme.nu
 ourplasticfuture.nu
 ours.nu
@@ -122098,7 +122035,6 @@ ovcampus.nu
 ovcharka.nu
 ovd.nu
 ove.nu
-ovea.nu
 ovejensen.nu
 ovelokale.nu
 ovelokaler.nu
@@ -122523,7 +122459,6 @@ pacemaker.nu
 pacetrain.nu
 pach.nu
 pacha.nu
-pachamama.nu
 pachtgrond.nu
 pacific.nu
 pacioli.nu
@@ -123825,7 +123760,6 @@ pastellet.nu
 pastellio.nu
 pastill.nu
 pastoor.nu
-pastor.nu
 pastorn.nu
 pasupport.nu
 pasv.nu
@@ -124076,7 +124010,6 @@ payments.nu
 payncharge.nu
 paynova.nu
 paynow.nu
-paynplay.nu
 payoff.nu
 payon.nu
 paypal.nu
@@ -124304,7 +124237,6 @@ pedago.nu
 pedagog-stockholm.nu
 pedagog.nu
 pedagogerian.nu
-pedagogia.nu
 pedagogica.nu
 pedagogiek.nu
 pedagogik.nu
@@ -126021,7 +125953,6 @@ pinkdogacademy.nu
 pinkdoglearning.nu
 pinkdogmedia.nu
 pinkelephant.nu
-pinkeltje.nu
 pinkeye.nu
 pinkfluffyunicorns.nu
 pinkie.nu
@@ -138949,7 +138880,6 @@ s-bag.nu
 s-band.nu
 s-berg.nu
 s-blommor.nu
-s-d.nu
 s-design.nu
 s-g.nu
 s-gravenhageintobusiness.nu
@@ -140016,7 +139946,6 @@ samfallighet.nu
 samfalligheterna.nu
 samfundetdenio.nu
 samglas.nu
-samhain.nu
 samhal.nu
 samhall.nu
 samhallab.nu
@@ -140525,7 +140454,6 @@ sapio.nu
 saplat.nu
 sapmi.nu
 sapoholland.nu
-sapore.nu
 sapos.nu
 sapp.nu
 sappa.nu
@@ -141652,7 +141580,6 @@ schroefcompressoren.nu
 schroeffundament.nu
 schroer.nu
 schroll.nu
-schrootnodig.nu
 schteeek.nu
 schubergphilis.nu
 schubert.nu
@@ -142327,7 +142254,6 @@ seecurity.nu
 seed.nu
 seedorff.nu
 seeds.nu
-seef.nu
 seegers.nu
 seehausen.nu
 seekme.nu
@@ -142906,7 +142832,6 @@ sensact.nu
 sensas.nu
 sense-caps.nu
 sense-it.nu
-sense-of-urgency.nu
 sense.nu
 senseai.nu
 senseair.nu
@@ -144071,7 +143996,6 @@ shopit.nu
 shopkorting.nu
 shoplifters.nu
 shoplist.nu
-shoplocal.nu
 shopman.nu
 shopnordskiffer.nu
 shopnu.nu
@@ -144501,7 +144425,6 @@ sikkerhedssko.nu
 sikkerhedstest.nu
 sikkerhedstjek.nu
 sikkerlegeplads.nu
-sikkermail.nu
 sikkerpersondata.nu
 sikkerrejse.nu
 sikkertarbejde.nu
@@ -144978,7 +144901,6 @@ sinnrik.nu
 sino.nu
 sinomtid.nu
 sinova.nu
-sinow.nu
 sinrob.nu
 sinrobtechnologies.nu
 sins.nu
@@ -146726,6 +146648,7 @@ skotdigsjalv.nu
 skoter.nu
 skoterdekaler.nu
 skotergarage.nu
+skoterkarta.nu
 skoterkort.nu
 skoterkurs.nu
 skoterpass.nu
@@ -151576,6 +151499,7 @@ spelautomaten.nu
 spelautomaterna.nu
 spelautomateronline.nu
 spelav75.nu
+spelberoende.nu
 spelbibeln.nu
 spelbladet.nu
 spelbolag.nu
@@ -152074,7 +151998,6 @@ spoedopleiding.nu
 spoedpost.nu
 spoedposthuisartsen.nu
 spoedrijexamen.nu
-spoedservice.nu
 spoedslotenmaker.nu
 spoedtandarts.nu
 spoedtaxatie.nu
@@ -153288,7 +153211,6 @@ stalbroderna.nu
 stalbyggnadskontroll.nu
 staldal.nu
 staldbornholm.nu
-stalden.nu
 staldtek.nu
 stale.nu
 stalen-binnendeuren.nu
@@ -153454,7 +153376,6 @@ standvast.nu
 standvordering.nu
 standwanden.nu
 standwithukraine.nu
-stanenollie.nu
 stang.nu
 stangastaden.nu
 stangby.nu
@@ -154251,6 +154172,7 @@ stenametall.nu
 stenangaforskola.nu
 stenar.nu
 stenasen.nu
+stenback.nu
 stenbaeck.nu
 stenbaecks.nu
 stenbaek.nu
@@ -155031,6 +154953,7 @@ stockholmfillers.nu
 stockholmflyttfirma.nu
 stockholmfonster.nu
 stockholmfood.nu
+stockholmfoodtrucks.nu
 stockholmgolvslipning.nu
 stockholmgospel.nu
 stockholmgreeninnovationdistrict.nu
@@ -155723,7 +155646,6 @@ storing.nu
 storingen.nu
 storinginternet.nu
 storingsdienst.nu
-storingzonnepanelen.nu
 storix.nu
 stork.nu
 storkas.nu
@@ -156252,7 +156174,6 @@ stresslaege.nu
 stressless.nu
 stressloslaten.nu
 stressmek.nu
-stressmentor.nu
 stressmottagningen.nu
 stressombudsmannen.nu
 stressoplossen.nu
@@ -157091,7 +157012,6 @@ sub-scribe.nu
 sub.nu
 subarashii.nu
 subaru-nordic.nu
-subaru.nu
 subarugoteborg.nu
 subarumalmo.nu
 subarunordic.nu
@@ -157099,8 +157019,6 @@ subarustockholm.nu
 subchain.nu
 subcity.nu
 subcom.nu
-subcontractor.nu
-subcounie.nu
 subculture.nu
 subcuvia.nu
 sube.nu
@@ -157650,6 +157568,7 @@ superbike.nu
 superblatte.nu
 superbod.nu
 superboeren.nu
+superboerenpils.nu
 superboy-lives.nu
 superbuddy.nu
 superbuss.nu
@@ -160433,11 +160352,9 @@ tafbedding.nu
 tafelen.nu
 tafelgoochelaar.nu
 tafelgoochelen.nu
-tafelkopen.nu
 tafelopmaat.nu
 tafelronde.nu
 tafels.nu
-tafelskopen.nu
 tafelsoefenen.nu
 tafelsopmaat.nu
 tafeltennis.nu
@@ -161823,7 +161740,6 @@ teamkracht.nu
 teamkraft.nu
 teamleiders.nu
 teamlembke.nu
-teamlinjen.nu
 teamlyckans.nu
 teammagic.nu
 teammanagers.nu
@@ -163825,6 +163741,7 @@ theologica.nu
 theonlyconstant-ai.nu
 theoracing.nu
 theorchestra.nu
+theorie-examen.nu
 theorie-leren.nu
 theorie-les.nu
 theorie.nu
@@ -163836,6 +163753,7 @@ theorieexamenreserveren.nu
 theoriegarant.nu
 theoriegarant1dag.nu
 theoriegarantie.nu
+theoriehalen.nu
 theorieleren.nu
 theorielessen.nu
 theorienet.nu
@@ -163963,7 +163881,6 @@ theservicecorporation.nu
 thesharinggroup.nu
 theshiftband.nu
 theshininglightscompanies.nu
-theshoot.nu
 theshop.nu
 thesign.nu
 thesigncompany.nu
@@ -164134,7 +164051,6 @@ thiosix.nu
 third.nu
 thirdeye.nu
 thirdmanproduction.nu
-thirdofjune.nu
 thirdopinion.nu
 thirdplace.nu
 thirdstorm.nu
@@ -165265,7 +165181,6 @@ tirgan.nu
 tirildsfriskvard.nu
 tirion.nu
 tirk.nu
-tirolerkleding.nu
 tirsdagsklubben.nu
 tis.nu
 tisa.nu
@@ -166041,7 +165956,6 @@ tonershop.nu
 tonervaruhuset.nu
 tonett.nu
 toneworks.nu
-tonfisk.nu
 tongeren-borgloon.nu
 tongeren.nu
 tongerenborgloon.nu
@@ -168273,7 +168187,6 @@ truckboken.nu
 truckcentralen.nu
 truckdator.nu
 trucken.nu
-trucker-heroes.nu
 trucker.nu
 truckers.nu
 truckersparadise.nu
@@ -171279,7 +171192,6 @@ ursnyggt.nu
 ursprung.nu
 ursprungliglivsstil.nu
 urstark.nu
-ursus.nu
 ursviken.nu
 urt.nu
 urteheksen.nu
@@ -172581,6 +172493,7 @@ vanalledag.nu
 vanalphen.nu
 vanalst.nu
 vanamerongen.nu
+vanamersfoort.nu
 vanamstel.nu
 vananaarbeterebaan.nu
 vananaloognaardigitaal.nu
@@ -173062,7 +172975,6 @@ vanhuijgevoort.nu
 vanhuizen.nu
 vanhulst.nu
 vanhulten.nu
-vanhunnik.nu
 vanhuuksloot.nu
 vania.nu
 vanieperen.nu
@@ -173653,7 +173565,6 @@ varmdomotorteknik.nu
 varmdoridklubb.nu
 varmdoscout.nu
 varmdosmadjursklinik.nu
-varmdostubbfrasning.nu
 varmdotaxi.nu
 varme-pump.nu
 varme.nu
@@ -174529,6 +174440,7 @@ veegservice.nu
 veehandel.nu
 veel.nu
 veeldaglicht.nu
+veelers.nu
 veelmeerdan.nu
 veelzijdig.nu
 veelzijdigplus.nu
@@ -175213,7 +175125,6 @@ vereniging.nu
 verenigingsportbedrijvennederland.nu
 verenoflood.nu
 veres.nu
-verf-plaza.nu
 verf.nu
 verfbestellen.nu
 verfenstuc.nu
@@ -176729,6 +176640,7 @@ viljestyrka.nu
 vilkadack.nu
 vilkenbank.nu
 vilkenbradag.nu
+vilkendag.nu
 vilkenstorlek.nu
 vilkenvalla.nu
 vilkenvecka.nu
@@ -177124,6 +177036,7 @@ vinklippet.nu
 vinklubben.nu
 vinkoeleskab.nu
 vinkollen.nu
+vinkort.nu
 vinkunskap.nu
 vinkurseronline.nu
 vinkvink.nu
@@ -178216,7 +178129,6 @@ vlaanderen.nu
 vlaar.nu
 vlaardingen.nu
 vlab.nu
-vlad.nu
 vladcandrei.nu
 vlados.nu
 vlaggen.nu
@@ -179525,7 +179437,6 @@ vvsguide.nu
 vvsguiden.nu
 vvshandboken.nu
 vvshelsingborg.nu
-vvshem.nu
 vvshuset.nu
 vvsinfo.nu
 vvsinformation.nu
@@ -181832,7 +181743,6 @@ werkenbijwijzer.nu
 werkenbijzonmaat.nu
 werkendnaarwerk.nu
 werkenenleren.nu
-werkenergiebewust.nu
 werkenergiek.nu
 werkengeld.nu
 werkenindehospitality.nu
@@ -183867,7 +183777,6 @@ wooncirkel.nu
 wooncirkels.nu
 woondroom.nu
 woondroomzorg.nu
-woonenergiebewust.nu
 woonflex.nu
 woongalerie.nu
 woongeluk.nu
@@ -183881,7 +183790,6 @@ wooninfo.nu
 wooninside.nu
 wooninspiratie.nu
 wooninspiratielive.nu
-woonklaar.nu
 woonkracht.nu
 woonkracht10.nu
 woonlangerthuis.nu
@@ -186484,7 +186392,6 @@ xn--ejendomsmgler-cgb.nu
 xn--ejendomsmglere-8ib.nu
 xn--ekbergsls-d3a.nu
 xn--ekelw-mua.nu
-xn--eker-8qa.nu
 xn--ekerjobb-q4a.nu
 xn--ekerkommun-hcb.nu
 xn--ekobostder-w5a.nu
@@ -188136,7 +188043,6 @@ xn--grnvalla-o4a.nu
 xn--grnvarme-64a.nu
 xn--grnviden-64a.nu
 xn--grnviken-o4a.nu
-xn--grnvila-b1a.nu
 xn--grnvirkelighed-rqb.nu
 xn--grnytemaskiner-wpb.nu
 xn--grplats-90a.nu
@@ -190087,7 +189993,6 @@ xn--lgereld-5wa.nu
 xn--lgereldsfaktorn-0kb.nu
 xn--lgerne-pua.nu
 xn--lgesbild-0za.nu
-xn--lgeskontroll-gcb.nu
 xn--lget-loa.nu
 xn--lgetid-pua.nu
 xn--lgevagt-mxa.nu
@@ -191268,7 +191173,6 @@ xn--n-1fa6c.nu
 xn--nabohjlp-o0a.nu
 xn--nabostj-v1a.nu
 xn--nackamsterskapen-0nb.nu
-xn--nackastubbfrsning-1qb.nu
 xn--nageltrng-c3a.nu
 xn--namnsk-0xa.nu
 xn--napphllare-55a.nu
@@ -195346,7 +195250,6 @@ xn--vrmdmarkiser-gcb9w.nu
 xn--vrmdmiljisolering-qqb95ae.nu
 xn--vrmdmotorteknik-0kb32a.nu
 xn--vrmdskrgrdsisolering-bzbfz61b.nu
-xn--vrmdstubbfrsning-vnbk84a.nu
 xn--vrmdtaxi-0za7p.nu
 xn--vrme-loa.nu
 xn--vrmeabonnemang-5hb.nu
@@ -196571,7 +196474,6 @@ yttreus.nu
 ytv.nu
 yu.nu
 yua.nu
-yubi.nu
 yubidesk.nu
 yuc.nu
 yuda.nu
@@ -197085,7 +196987,6 @@ zenna.nu
 zeno.nu
 zenobia.nu
 zenonenmira.nu
-zenopdezaak.nu
 zensation.nu
 zense.nu
 zenseact.nu
@@ -197659,7 +197560,6 @@ zonnepanelenhuren.nu
 zonnepaneleninstalleren.nu
 zonnepanelenkopen.nu
 zonnepanelenleasen.nu
-zonnepanelenonderhoud.nu
 zonnepanelenplaatsen.nu
 zonnepanelenreinigen.nu
 zonnepanelenuit.nu
@@ -197725,6 +197625,7 @@ zooom.nu
 zoophies.nu
 zoopriser.nu
 zoosk.nu
+zoostore.nu
 zootropia.nu
 zootropic.nu
 zoovillage.nu
